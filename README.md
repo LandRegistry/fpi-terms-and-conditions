@@ -1,12 +1,14 @@
 # Find property information: terms and conditions
 
-repo conatins markdown version of terms and conditions for Find property information
+repo contains markdown version of the terms and conditions for gov.uk service Find property information
 
-this is currently duplicated inside the prototype.
+* this is currently duplicated inside the prototype.
+
+* this set of T and C is ahead of the live build
 
 ## todo
-* workflow for changes to this file - e.g. lock the master branch
-* get everyone working off this version
+* workflow for changes to this repo - e.g. lock the master branch
+* get everyone working from this version of T and C
 * make prototype consume this repo / md automatically
 * make real front end consume this repo
-* label changes to allow front end to consume signed off version of T&C - and be bale to show changes (we could show to the user, since last 'i accept the terms and conditions'
+* label changes to allow front end to consume signed off version of T&C - and be able to show changes (we could show to the user, the changes since last 'i accept the terms and conditions'
