@@ -1,6 +1,6 @@
-#Find property information: terms of use
+# Find property information: terms of use
 
-##About this Service
+## About this Service
 
 Use this service to get a summary of who owns or leases a property, including:
 
@@ -17,7 +17,7 @@ Use [Land Registry’s Find a Property service](https://eservices.landregistry.g
 
 **By using this service you accept the terms of use set out on this page. Each term of use is separate. If any court decides any is unlawful the rest will continue to be fully effective. You can stop using this service at any time. Land Registry can stop you from using this service if you don’t comply with its terms of use.**
 
-##Registering to use the service
+## Registering to use the service
 
 If you’re already registered with Land Registry’s Find a Property service, you can use your username and password to access this service.
 
@@ -33,7 +33,7 @@ Land Registry is not responsible for any losses arising from unauthorised use of
 
 To protect you, if you don’t use your account it’ll be deleted 12 months after the date you last used it. You’ll need to re-register to start using the service again.
 
-##Terms and conditions of use
+## Terms and conditions of use
 
 By registering an account, you agree that you will not:  
 * attempt to damage, impair or interrupt the service or access to it
@@ -46,7 +46,7 @@ By registering an account, you agree that you will not:
 
 The Land Registry has the right to cancel your account at any time without notice if it suspects or has evidence you are not complying with these terms of use. If this happens you will have to pay any unpaid fees.
 
-##Using the service
+## Using the service
 
 This service is for domestic and private use only. Land Registry is not responsible for any losses that may result if you use the service for commercial business or re-sale purposes.
 
@@ -56,7 +56,7 @@ The service is available every day but may be taken down for updates and mainten
 
 If Land Registry has to contact you, it’ll write to you at the email address you provided when you registered.
 
-##Using the service – your contract with Land Registry
+## Using the service – your contract with Land Registry
 
 By using the Find property information service (‘the service’), you have the ability to:
 * search for a property by postcode
@@ -83,7 +83,7 @@ Land Registry is not liable to you or any third party for any losses arising fro
 * services provided by third parties
 * inaccuracies in the content of linked websites
 
-##Information the Land Registry holds about you
+## Information the Land Registry holds about you
 
 The Land Registry’s Find property information service will hold the following information about you:
 * your email address
@@ -91,7 +91,7 @@ The Land Registry’s Find property information service will hold the following 
 * your postal address
 * your telephone number (if you provide one)
 
-##How Land Registry protects your personal information
+## How Land Registry protects your personal information
 
 Land Registry complies with the requirements set by the Data Protection Act 1998 and European Parliament Directives.
 
@@ -109,7 +109,7 @@ Your order information can be shared with other teams in Land Registry or other 
 
 There are some cases when your information can be shared for other reasons, for example to prevent crime.
 
-##How to make a complaint
+## How to make a complaint
 
 If you’re unhappy with the title summary information or any other aspect of the service, contact the Land Registry by completing its online [contact form](https://landregistry.custhelp.com/app/contactus_general/) or calling 0300 006 0411. To speak to a Welsh speaker, call 0300 003 0422.
 
