@@ -30,6 +30,7 @@ we previously called this the terms and conditions.
 	* MAJOR this version not backward compatible - e.g. legislative change, whole topic change, or significant rewrite, personal information change, data collection or retention change.
 	* MINOR when changing a whole paragraph or lot of 'small changes' accross many paragraphs. 
 	* PATCH when plain Englishing a sentence or fix a typo
+	* example: changing "Land Registry" to "HM Land Registry" is MINOR: 1.0.0 --> 1.1.0
 * give plain English title (would make sense to a user - this will be shown to the user)
 * give plain English description (would make sense to the user - this will be shown to the user)
 
