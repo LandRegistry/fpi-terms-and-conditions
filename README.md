@@ -4,7 +4,8 @@ repo contains markdown version of the terms of use for gov.uk service Find prope
 we previously called this the terms and conditions.
 
 ## Last Updated
-* Wed 24th May, 2017 - ititial release tag - 1.0.0, and update release/tagging concept
+* Wed 31st May, 2017 - change organisation name to HM Land Registry
+* Wed 24th May, 2017 - initial release tag - 1.0.0, and update release/tagging concept
 * Wed 1st March, 2017 - to match agreed version in Google drive - doc V1 28-02-17
 
 ## Notes
