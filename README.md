@@ -4,6 +4,8 @@ repo contains markdown version of the terms of use for gov.uk service Find prope
 we previously called this the terms and conditions.
 
 ## Last Updated
+* Mon 7th August, 2017 - tag release - 1.3.0
+* Mon 7th August, 2017 - accounts not being deleted after 12 months
 * Tue 6th June, 2017 - tag release - 1.2.0
 * Tue 6th June, 2017 - you can download a copy of the summary
 * Wed 31st May, 2017 - tag release - 1.1.0
