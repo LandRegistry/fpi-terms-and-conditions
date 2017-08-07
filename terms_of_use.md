@@ -30,9 +30,7 @@ Important: you are solely responsible for:
 
 If you think your account’s security has been breached, call HM Land Registry immediately on 0300 006 0411. To speak to a Welsh speaker call 0300 006 0422.
 
-HM Land Registry is not responsible for any losses arising from unauthorised use of your account.  
-
-To protect you, if you don’t use your account it’ll be deleted 12 months after the date you last used it. You’ll need to re-register to start using the service again.
+HM Land Registry is not responsible for any losses arising from unauthorised use of your account.
 
 ## Terms and conditions of use
 
@@ -61,6 +59,7 @@ If HM Land Registry has to contact you, it’ll write to you at the email addres
 ## Using the service – your contract with HM Land Registry
 
 By using the Find property information service (‘the service’), you have the ability to:
+
 * search for a property by postcode
 * select a property from a list of property addresses that match your search
 * view, print or download title summary information for a property for the fee stated
