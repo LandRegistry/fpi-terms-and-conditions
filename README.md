@@ -4,6 +4,8 @@ repo contains markdown version of the terms of use for gov.uk service Find prope
 we previously called this the terms and conditions.
 
 ## Last Updated
+* Thu 9th November, 2017 - tag release - 1.4.0
+* Thu 9th November, 2017 - ICO changed to ICR - Independent Complaints Reviewer
 * Mon 7th August, 2017 - tag release - 1.3.0
 * Mon 7th August, 2017 - accounts not being deleted after 12 months
 * Tue 6th June, 2017 - tag release - 1.2.0
